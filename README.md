@@ -44,9 +44,9 @@ https://github.com/user-attachments/assets/f9b25d81-a364-4bc9-8b84-173cfa0e099e
  - done, the OpenWRT image is located in the `out` folder 
 
  ### ULO script information
- - ULO Repository Template : [ULO Repository](https://github.com/armarchindo/ULO-repository)
+ - ULO Repository Template : [ULO Repository](https://github.com/mift2609/ULO-repository)
  - How to change `ULO Repository` at `ULO Builder`
-   1. Fork [ULO Repository](https://github.com/armarchindo/ULO-repository) on your github
+   1. Fork [ULO Repository](https://github.com/mift2609/ULO-repository) on your github
    2. You can edit a `firmware`, `rootfs`, `kernel` files at your `ULO Repository`
    3. Edit your ULO Script at lines `25`<br>
    Change default ULO Repository to your URL Repository, example...
