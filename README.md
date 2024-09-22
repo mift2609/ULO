@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/f9b25d81-a364-4bc9-8b84-173cfa0e099e
  - `lolcat, pigz, aria2` and default packages from Linux
    
 ## Usage
- - clone this repository `git clone --depth=1 --branch=main https://github.com/armarchindo/ULO-Builder.git`
+ - clone this repository `git clone --depth=1 --branch=main https://github.com/mift2609/ULO-Builder.git`
  - directory Kernel: `core/kernel/`
  - directory ROOTFS:  `rootfs`
  - run ULO script with superuser `sudo ./ulo`
@@ -53,7 +53,7 @@ https://github.com/user-attachments/assets/f9b25d81-a364-4bc9-8b84-173cfa0e099e
    ```bash
      # DEFAULT REPOSITORY
      # Kernel & Firmware Repository
-     repos="https://github.com/armarchindo/ULO-repository"
+     repos="https://github.com/mift26/ULO-repository"
    ``` 
    to
    ```bash
